@@ -4,11 +4,8 @@
     <title>Conta Azul de Bolso - iOS Changelog</title>
     <language>en</language>
       <item>
-        <sparkle:version>2.8.5+2</sparkle:version>
+        <sparkle:version>2.8.4</sparkle:version>
         <enclosure sparkle:os="ios" url="https://apps.apple.com/br/app/conta-azul-de-bolso/id1567614314" />
-        <sparkle:tags>
-          <sparkle:criticalUpdate />
-        </sparkle:tags>
       </item>
   </channel>
 </rss>
