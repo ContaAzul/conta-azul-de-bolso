@@ -25,3 +25,12 @@ Example:
   </channel>
 </rss>
 ```
+
+Apple store urls doc:
+> https://developer.apple.com/library/archive/qa/qa1633/_index.html
+
+Android store
+> https://play.google.com/store/apps/details?id=com.contaazul.mobile.pro.ca_mobile_pro
+
+iOS store
+> https://apps.apple.com/br/app/conta-azul-de-bolso/id1567614314
