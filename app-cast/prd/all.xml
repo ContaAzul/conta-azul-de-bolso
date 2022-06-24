@@ -6,7 +6,7 @@
       <item>
         <title>Android 2.8.6</title>
         <sparkle:version>2.8.6</sparkle:version>
-        <enclosure sparkle:os="android" url="https://play.google.com/store/apps/details?id=com.contaazul.mobile.pro.ca_mobile_pro" />
+        <enclosure sparkle:os="android" url="market://details?id=com.contaazul.mobile.pro.ca_mobile_pro" />
         <sparkle:tags>
           <sparkle:criticalUpdate />
         </sparkle:tags>
@@ -14,12 +14,12 @@
       <item>
         <title>Android 2.8.4</title>
         <sparkle:version>2.8.4</sparkle:version>
-        <enclosure sparkle:os="android" url="https://play.google.com/store/apps/details?id=com.contaazul.mobile.pro.ca_mobile_pro" />
+        <enclosure sparkle:os="android" url="market://details?id=com.contaazul.mobile.pro.ca_mobile_pro" />
       </item>
       <item>
         <title>iOS 2.8.4</title>
         <sparkle:version>2.8.4</sparkle:version>
-        <enclosure sparkle:os="ios" url="https://apps.apple.com/br/app/conta-azul-de-bolso/id1567614314" />
+        <enclosure sparkle:os="ios" url="https://apps.apple.com/app/id1567614314" />
       </item>
   </channel>
 </rss>

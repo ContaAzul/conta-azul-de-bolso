@@ -32,5 +32,9 @@ Apple store urls doc:
 Android store
 > https://play.google.com/store/apps/details?id=com.contaazul.mobile.pro.ca_mobile_pro
 
+> market://details?id=com.contaazul.mobile.pro.ca_mobile_pro
+
 iOS store
 > https://apps.apple.com/br/app/conta-azul-de-bolso/id1567614314
+
+> https://apps.apple.com/app/id1567614314
