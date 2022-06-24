@@ -4,22 +4,20 @@
     <title>Conta Azul de Bolso - Changelog</title>
     <language>en</language>
       <item>
-        <title>Android 2.8.6</title>
-        <sparkle:version>2.8.6</sparkle:version>
+        <title>Android 2.8.5</title>
         <enclosure sparkle:os="android" url="market://details?id=com.contaazul.mobile.pro.ca_mobile_pro" />
+        <sparkle:version>2.8.5</sparkle:version>
         <sparkle:tags>
           <sparkle:criticalUpdate />
         </sparkle:tags>
       </item>
       <item>
-        <title>Android 2.8.4</title>
-        <sparkle:version>2.8.4</sparkle:version>
-        <enclosure sparkle:os="android" url="market://details?id=com.contaazul.mobile.pro.ca_mobile_pro" />
-      </item>
-      <item>
-        <title>iOS 2.8.4</title>
-        <sparkle:version>2.8.4</sparkle:version>
+        <title>iOS 2.8.5</title>
         <enclosure sparkle:os="ios" url="https://apps.apple.com/app/id1567614314" />
+        <sparkle:version>2.8.5</sparkle:version>
+        <sparkle:tags>
+          <sparkle:criticalUpdate />
+        </sparkle:tags>
       </item>
   </channel>
 </rss>
