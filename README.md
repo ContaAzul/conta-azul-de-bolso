@@ -37,4 +37,6 @@ Android store
 iOS store
 > https://apps.apple.com/br/app/conta-azul-de-bolso/id1567614314
 
+> https://apps.apple.com/us/app/conta-azul-de-bolso/id1567614314
+
 > https://apps.apple.com/app/id1567614314
