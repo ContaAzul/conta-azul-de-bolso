@@ -32,9 +32,11 @@ Apple store urls doc:
 Android store
 > https://play.google.com/store/apps/details?id=com.contaazul.mobile.pro.ca_mobile_pro
 
-> market://details?id=com.contaazul.mobile.pro.ca_mobile_pro
+> market://details?id=com.contaazul.mobile.pro.ca_mobile_pro // em uso
 
 iOS store
+> itms-apps://apps.apple.com/us/app/conta-azul-de-bolso/id1567614314 // em uso
+
 > https://apps.apple.com/br/app/conta-azul-de-bolso/id1567614314
 
 > https://apps.apple.com/us/app/conta-azul-de-bolso/id1567614314
