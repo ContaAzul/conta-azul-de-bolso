@@ -5,7 +5,7 @@
     <language>en</language>
       <item>
         <enclosure sparkle:os="android" url="market://details?id=com.contaazul.mobile.pro.ca_mobile_pro" />
-        <sparkle:version>2.9.2</sparkle:version>        
+        <sparkle:version>2.9.1-dev</sparkle:version>        
         <sparkle:tags>
           <sparkle:criticalUpdate />
         </sparkle:tags>        
