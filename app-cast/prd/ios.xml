@@ -5,6 +5,13 @@
     <language>en</language>
       <item>
         <enclosure sparkle:os="ios" url="itms-apps://apps.apple.com/us/app/conta-azul-de-bolso/id1567614314" />
+        <sparkle:version>5.2.1</sparkle:version>
+        <sparkle:tags>
+          <sparkle:criticalUpdate />
+        </sparkle:tags>
+      </item>    
+      <item>
+        <enclosure sparkle:os="ios" url="itms-apps://apps.apple.com/us/app/conta-azul-de-bolso/id1567614314" />
         <sparkle:version>5.1.3</sparkle:version>
         <sparkle:tags>
           <sparkle:criticalUpdate />
