@@ -6,9 +6,6 @@
       <item>
         <enclosure sparkle:os="ios" url="itms-apps://apps.apple.com/us/app/conta-azul-de-bolso/id1567614314" />
         <sparkle:version>7.8.1</sparkle:version>
-        <sparkle:tags>
-          <sparkle:criticalUpdate />
-        </sparkle:tags>
       </item>
   </channel>
 </rss>
