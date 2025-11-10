@@ -5,96 +5,14 @@
     <language>en</language>
       <item>
         <enclosure sparkle:os="android" url="market://details?id=com.contaazul.mobile.pro.ca_mobile_pro" />
-        <sparkle:version>9.4.1</sparkle:version>
+        <sparkle:version>9.6.0</sparkle:version>
       </item>
-      <item>
-        <enclosure sparkle:os="android" url="market://details?id=com.contaazul.mobile.pro.ca_mobile_pro" />
-        <sparkle:version>9.2.2</sparkle:version>
-      </item>
-      <item>
-        <enclosure sparkle:os="android" url="market://details?id=com.contaazul.mobile.pro.ca_mobile_pro" />
-        <sparkle:version>9.2.0</sparkle:version>
-      </item>
-      <item>
+       <item>
         <enclosure sparkle:os="android" url="market://details?id=com.contaazul.mobile.pro.ca_mobile_pro" />
         <sparkle:version>9.0.3</sparkle:version>
         <sparkle:tags>
           <sparkle:criticalUpdate />
         </sparkle:tags>        
-      </item>
-      <item>
-        <enclosure sparkle:os="android" url="market://details?id=com.contaazul.mobile.pro.ca_mobile_pro" />
-        <sparkle:version>9.0.0</sparkle:version>
-      </item>
-      <item>
-        <enclosure sparkle:os="android" url="market://details?id=com.contaazul.mobile.pro.ca_mobile_pro" />
-        <sparkle:version>8.3.2</sparkle:version>
-        <sparkle:tags>
-          <sparkle:criticalUpdate />
-        </sparkle:tags>        
-      </item>
-      <item>
-        <enclosure sparkle:os="android" url="market://details?id=com.contaazul.mobile.pro.ca_mobile_pro" />
-        <sparkle:version>8.3.1</sparkle:version>
-        <sparkle:tags>
-          <sparkle:criticalUpdate />
-        </sparkle:tags>        
-      </item>
-      <item>
-        <enclosure sparkle:os="android" url="market://details?id=com.contaazul.mobile.pro.ca_mobile_pro" />
-        <sparkle:version>8.2.1</sparkle:version>
-        <sparkle:tags>
-          <sparkle:criticalUpdate />
-        </sparkle:tags>
-      </item>
-      <item>
-        <enclosure sparkle:os="android" url="market://details?id=com.contaazul.mobile.pro.ca_mobile_pro" />
-        <sparkle:version>8.1.1</sparkle:version>
-        <sparkle:tags>
-          <sparkle:criticalUpdate />
-        </sparkle:tags>
-      </item>
-      <item>
-        <enclosure sparkle:os="android" url="market://details?id=com.contaazul.mobile.pro.ca_mobile_pro" />
-        <sparkle:version>8.0.1</sparkle:version>
-        <sparkle:tags>
-          <sparkle:criticalUpdate />
-        </sparkle:tags>
-      </item>
-      <item>
-        <enclosure sparkle:os="android" url="market://details?id=com.contaazul.mobile.pro.ca_mobile_pro" />
-        <sparkle:version>7.9.2</sparkle:version>
-        <sparkle:tags>
-          <sparkle:criticalUpdate />
-        </sparkle:tags>
-      </item>
-      <item>
-        <enclosure sparkle:os="android" url="market://details?id=com.contaazul.mobile.pro.ca_mobile_pro" />
-        <sparkle:version>7.9.1</sparkle:version>
-        <sparkle:tags>
-          <sparkle:criticalUpdate />
-        </sparkle:tags>
-      </item>
-      <item>
-        <enclosure sparkle:os="android" url="market://details?id=com.contaazul.mobile.pro.ca_mobile_pro" />
-        <sparkle:version>7.9.0</sparkle:version>
-        <sparkle:tags>
-          <sparkle:criticalUpdate />
-        </sparkle:tags>
-      </item>
-      <item>
-        <enclosure sparkle:os="android" url="market://details?id=com.contaazul.mobile.pro.ca_mobile_pro" />
-        <sparkle:version>7.8.9</sparkle:version>
-        <sparkle:tags>
-          <sparkle:criticalUpdate />
-        </sparkle:tags>
-      </item>
-      <item>
-        <enclosure sparkle:os="android" url="market://details?id=com.contaazul.mobile.pro.ca_mobile_pro" />
-        <sparkle:version>7.8.8</sparkle:version>
-        <sparkle:tags>
-          <sparkle:criticalUpdate />
-        </sparkle:tags>
-      </item>
+      </item>      
   </channel>
 </rss>
