@@ -1,21 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle"
-  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle"  xmlns:dc="http://purl.org/dc/elements/1.1/">
   <channel>
     <title>Conta Azul de Bolso - Android Changelog</title>
     <language>en</language>
-    <item>
-      <enclosure sparkle:os="android"
-        url="market://details?id=com.contaazul.mobile.pro.ca_mobile_pro" />
-      <sparkle:version>9.8.0</sparkle:version>
-      <sparkle:tags>
-        <sparkle:criticalUpdate />
-      </sparkle:tags>
-    </item>
-    <item>
-      <enclosure sparkle:os="android"
-        url="market://details?id=com.contaazul.mobile.pro.ca_mobile_pro" />
-      <sparkle:version>9.6.0</sparkle:version>
-    </item>
+      <item>
+        <enclosure sparkle:os="android" url="market://details?id=com.contaazul.mobile.pro.ca_mobile_pro" />
+        <sparkle:version>9.6.0</sparkle:version>
+      </item>
+       <item>
+        <enclosure sparkle:os="android" url="market://details?id=com.contaazul.mobile.pro.ca_mobile_pro" />
+        <sparkle:version>9.8.0</sparkle:version>
+        <sparkle:tags>
+          <sparkle:criticalUpdate />
+        </sparkle:tags>        
+      </item>      
   </channel>
 </rss>
