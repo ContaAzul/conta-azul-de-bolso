@@ -1,0 +1,14 @@
+{
+  "version": "1.0.0",
+  "lockfileVersion": 1,
+  "generatedAt": "2026-02-18T00:00:00Z",
+  "projectName": "conta-azul-de-bolso",
+  "scannedPaths": [
+    "app-cast/",
+    "README.md",
+    "LICENSE"
+  ],
+  "dependencies": [],
+  "vulnerabilities": [],
+  "lastScanStatus": "clean"
+}
