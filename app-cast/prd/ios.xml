@@ -5,30 +5,11 @@
     <language>en</language>
      <item>
         <enclosure sparkle:os="ios" url="itms-apps://apps.apple.com/us/app/conta-azul-de-bolso/id1567614314" />
-        <sparkle:version>10.0.3</sparkle:version>
-      </item>
+        <sparkle:version>10.2.1</sparkle:version>
+     </item>
      <item>
         <enclosure sparkle:os="ios" url="itms-apps://apps.apple.com/us/app/conta-azul-de-bolso/id1567614314" />
-        <sparkle:version>10.0.1</sparkle:version>
-      </item>
-      <item>
-        <enclosure sparkle:os="ios" url="itms-apps://apps.apple.com/us/app/conta-azul-de-bolso/id1567614314" />
-        <sparkle:version>10.0.0</sparkle:version>
-      </item>
-      <item>
-        <enclosure sparkle:os="ios" url="itms-apps://apps.apple.com/us/app/conta-azul-de-bolso/id1567614314" />
-        <sparkle:version>9.8.3</sparkle:version>
-      </item>
-      <item>
-        <enclosure sparkle:os="ios" url="itms-apps://apps.apple.com/us/app/conta-azul-de-bolso/id1567614314" />
-        <sparkle:version>9.8.2</sparkle:version>
-      </item>
-      <item>
-        <enclosure sparkle:os="ios" url="itms-apps://apps.apple.com/us/app/conta-azul-de-bolso/id1567614314" />
-        <sparkle:version>9.8.0</sparkle:version>
-        <sparkle:tags>
-          <sparkle:criticalUpdate />
-        </sparkle:tags>
-      </item>
+        <sparkle:version>10.0.3</sparkle:version>
+     </item>
   </channel>
 </rss>
